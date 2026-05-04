@@ -1,3 +1,2 @@
 # myFirstRepo
-learning how to use this thing
-GitHub seems very helpful lets learn how to make braches, push/pull and go back to old ideas
+Introductory Python project exploring core programming concepts and GitHub workflows, including version control, code organization, and basic scripting.
